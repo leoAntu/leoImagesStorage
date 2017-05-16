@@ -1,0 +1,7 @@
+leoImagesStorage.xcodeproj/xcuserdata/
+leoImagesStorage.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+leoImagesStorage.xcodeproj/project.xcworkspace/xcuserdata/
